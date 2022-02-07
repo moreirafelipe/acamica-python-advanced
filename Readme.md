@@ -6,15 +6,15 @@
 
 These activities are related to the Python advanced course and covers the following subjects:
 
-OOP
+- OOP
 
-Iterators
+- Iterators
 
-Generators
+- Generators
 
-Map, filter, reduce
+- Map, filter, reduce
 
-
+  
 
 ## How to Run
 
